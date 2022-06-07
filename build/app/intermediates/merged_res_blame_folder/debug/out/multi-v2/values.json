@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ASUS\\Desktop\\UI for week\\crudeeg\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\ASUS\\Desktop\\git\\firebasecrudeeg\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\Desktop\\git\\firebasecrudeeg\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,715",
+                        "endColumns": "143,81,103,108,119,100,77",
+                        "endOffsets": "194,276,380,489,609,710,788"
+                    },
+                    "to": {
+                        "startLines": "119,120,121,122,123,124,125",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8513,8657,8739,8843,8952,9072,9173",
+                        "endColumns": "143,81,103,108,119,100,77",
+                        "endOffsets": "8652,8734,8838,8947,9067,9168,9246"
+                    }
+                },
                 {
                     "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-3\\c13d9e5ecb09d9c19ab8309c72c4c353\\transformed\\jetified-play-services-base-18.0.1\\res\\values\\values.xml",
                     "from": {
@@ -20,25 +37,6 @@
                         "endLines": "13,14,15,16,17,18,19,20,101,102,103,104,105,106,107,108,110,111,112,113,114,115,116,117,118,310,329",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "746,826,916,1006,1086,1167,1247,1327,6280,6461,6586,6693,6873,6996,7112,7215,7570,7675,7856,7981,8156,8304,8367,8429,8508,19858,20275"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ASUS\\Desktop\\UI for week\\crudeeg\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "127,132",
-                        "startColumns": "4,4",
-                        "startOffsets": "9322,9630",
-                        "endLines": "131,134",
-                        "endColumns": "12,12",
-                        "endOffsets": "9625,9794"
                     }
                 },
                 {
@@ -97,20 +95,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ASUS\\Desktop\\UI for week\\crudeeg\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\ASUS\\Desktop\\git\\firebasecrudeeg\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,715",
-                        "endColumns": "143,81,103,108,119,100,77",
-                        "endOffsets": "194,276,380,489,609,710,788"
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
                     },
                     "to": {
-                        "startLines": "119,120,121,122,123,124,125",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "8513,8657,8739,8843,8952,9072,9173",
-                        "endColumns": "143,81,103,108,119,100,77",
-                        "endOffsets": "8652,8734,8838,8947,9067,9168,9246"
+                        "startLines": "127,132",
+                        "startColumns": "4,4",
+                        "startOffsets": "9322,9630",
+                        "endLines": "131,134",
+                        "endColumns": "12,12",
+                        "endOffsets": "9625,9794"
                     }
                 }
             ]

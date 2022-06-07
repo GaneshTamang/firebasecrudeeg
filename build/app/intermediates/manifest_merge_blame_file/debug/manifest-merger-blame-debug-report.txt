@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\ASUS\Desktop\UI for week\crudeeg\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\Users\ASUS\Desktop\UI for week\crudeeg\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\Users\ASUS\Desktop\git\firebasecrudeeg\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\Users\ASUS\Desktop\git\firebasecrudeeg\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 17    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -71,25 +71,25 @@
 60            android:value="2" />
 61
 62        <service
-62-->[:cloud_firestore] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+62-->[:cloud_firestore] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 63            android:name="com.google.firebase.components.ComponentDiscoveryService"
-63-->[:cloud_firestore] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+63-->[:cloud_firestore] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 64            android:directBootAware="true"
 64-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ASUS\.gradle\caches\transforms-3\6a4c6d1c6c123dd0fc5c77c2fb3649c5\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
 65            android:exported="false" >
 65-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\ASUS\.gradle\caches\transforms-3\fbafe6af15a331ba3efd477496b5876d\transformed\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:19:13-37
 66            <meta-data
-66-->[:cloud_firestore] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+66-->[:cloud_firestore] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 67                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-67-->[:cloud_firestore] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+67-->[:cloud_firestore] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 68                android:value="com.google.firebase.components.ComponentRegistrar" />
-68-->[:cloud_firestore] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+68-->[:cloud_firestore] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 69            <meta-data
-69-->[:firebase_core] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+69-->[:firebase_core] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 70                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-70-->[:firebase_core] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+70-->[:firebase_core] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 71                android:value="com.google.firebase.components.ComponentRegistrar" />
-71-->[:firebase_core] C:\Users\ASUS\Desktop\UI for week\crudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+71-->[:firebase_core] C:\Users\ASUS\Desktop\git\firebasecrudeeg\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 72            <meta-data
 72-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\ASUS\.gradle\caches\transforms-3\fbafe6af15a331ba3efd477496b5876d\transformed\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
 73                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
