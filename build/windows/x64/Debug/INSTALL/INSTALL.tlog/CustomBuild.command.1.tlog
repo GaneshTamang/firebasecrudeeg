@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\UI FOR WEEK\CRUDEEG\BUILD\WINDOWS\CMAKEFILES\5EBEE130D1E864244CBC7A61E7774E31\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

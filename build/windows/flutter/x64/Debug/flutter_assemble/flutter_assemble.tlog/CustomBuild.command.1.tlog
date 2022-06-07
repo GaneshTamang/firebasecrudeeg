@@ -1,0 +1,28 @@
+^C:\USERS\ASUS\DESKTOP\UI FOR WEEK\CRUDEEG\BUILD\WINDOWS\CMAKEFILES\AF7781F3DD0D57567D679D824D1ED1AE\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\ASUS\Desktop\UI for week\crudeeg" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\ASUS\Desktop\UI for week\crudeeg\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\ASUS\Desktop\UI for week\crudeeg" "FLUTTER_TARGET=C:\Users\ASUS\Desktop\UI for week\crudeeg\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\ASUS\Desktop\UI for week\crudeeg\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DESKTOP\UI FOR WEEK\CRUDEEG\BUILD\WINDOWS\CMAKEFILES\E7331A1AB486337245FE41359366331E\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\DESKTOP\UI FOR WEEK\CRUDEEG\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/ASUS/Desktop/UI for week/crudeeg/windows" "-BC:/Users/ASUS/Desktop/UI for week/crudeeg/build/windows" --check-stamp-file "C:/Users/ASUS/Desktop/UI for week/crudeeg/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
